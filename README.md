@@ -15,5 +15,7 @@ Creating a classification model to predict customer buying behaviour
 Preparing a powerpoint representation to highlight our insights and analysis
 
 Program link: Forage
+
 Credential URL : https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/British%20Airways/NjynCWzGSaWXQCxSX_British%20Airways_KxDQgXmSH9xy457bL_1720516342460_completion_certificate.pdf
+
 Credential ID: BBztf5u3bh2Ay6YaS
